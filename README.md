@@ -1,4 +1,6 @@
 # Final-Project-June-Liu
+
+
 let ballPos; // ball position 
 let ballSpd; // ball speed
 let ballSize = 20;
