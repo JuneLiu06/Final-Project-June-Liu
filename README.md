@@ -17,6 +17,8 @@ let downSpeed; // move down speed
 let space; // space num
 let score; // score
 let gameOver; // if game is over
+
+
 function setup() {
   createCanvas(350, 600);
   knifes = [];
